@@ -1,4 +1,5 @@
-# flutter-app
+# control robot arm flutter app 
+
 
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/b1799166-a29f-49c5-bd5f-43ad6d00e7ef" />
 
@@ -33,7 +34,8 @@
 <br><br>
 <br><br>
 
-# flutter-app
+# control robot arm flutter app with flutter-apprequired libraries and permissions for USB serial
+
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/4747d80a-9383-42bf-a3bd-981b4fbe77a6" />
 <br><br>
 <br><br>
